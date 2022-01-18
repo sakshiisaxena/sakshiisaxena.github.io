@@ -1,7 +1,7 @@
 Dev Portfolio
 Portfolio built using flutter web.
 
-## To view a live demo,[Click Here](https://sakshiisaxena.github.io).
+## To view a live demo,[Click Here](https://sakshi-saxena-portfolio.netlify.app/#/).
 
 
 ##  Platforms
